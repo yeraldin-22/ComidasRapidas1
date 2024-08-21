@@ -1,0 +1,15 @@
+.contenedor-tarjeta{
+    margin: 0 auto;
+    margin-top: 40px;
+    box-shadow: 12px 12px 12px #156d66;
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+    line-height: 100px;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 12px 12px 12px #5cbdbd;
+}

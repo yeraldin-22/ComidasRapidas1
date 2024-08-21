@@ -1,0 +1,48 @@
+.imagen-logo{
+    width: 70%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 50px;
+    
+}
+
+.titulo-menu{
+    font-size: 33px;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0px 12px 12px #333;
+}
+
+.titulo-menu:hover{
+    color:blueviolet;
+    text-shadow: 0px 12px 12px #b167ce;
+    font-size: 30px;
+
+}
+
+.menu-boton{
+    margin-top: 30px;
+
+}
+
+.menu-boton button{
+    font-size: 23px;
+}
+
+.iconos{
+    margin-top: 29px;
+}
+
+.contenedor-menu{
+    border: 7px solid #333; 
+    width: 85%;
+    margin-left: 7%;
+    box-shadow: -12px 12px 12px #333;
+   
+}
+
+.imagen-logo-menu{
+    width: 30%;
+    
+}
