@@ -11,12 +11,12 @@
     line-height: 100px;
     text-align: center;
     font-weight: bold;
-    text-shadow: 0px 12px 12px #333;
+    text-shadow: 0px 12px 12px #238ce7;
 }
 
 .titulo-menu:hover{
-    color:blueviolet;
-    text-shadow: 0px 12px 12px #b167ce;
+    color:rgb(87, 9, 33);
+    text-shadow: 0px 12px 12px #db0d28;
     font-size: 30px;
 
 }
@@ -27,18 +27,20 @@
 }
 
 .menu-boton button{
-    font-size: 23px;
+    font-size: 50px;
 }
 
 .iconos{
-    margin-top: 29px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 23px;
 }
 
 .contenedor-menu{
-    border: 7px solid #333; 
+    border: 7px solid #032c1a; 
     width: 85%;
     margin-left: 7%;
-    box-shadow: -12px 12px 12px #333;
+    box-shadow: -12px 12px 12px #045748;
    
 }
 
